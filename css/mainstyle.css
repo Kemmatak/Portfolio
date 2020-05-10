@@ -1,6 +1,5 @@
 
 main{
-    
     margin: 1% 5% 5% 5%;
 }
 
@@ -55,17 +54,118 @@ main{
 }
 .mobile-screen {
     display: none;
-  }
+}
 
-  @media only screen and (max-width: 768px) {
+@media screen and (max-width: 414px) {
+    
     .mobile-screen {
-      display: flex;
-      width: 100%;
-      justify-content: center;
+        display: block;
+    }
+
+    .navegacion{
+        margin: 2% 5% 5% 5%;
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+    }
+
+    .name{
+        text-decoration: none;
+        font-size: 40px;
+        font-family: "geometria-medium";
+        color:black;
+        margin: 0;
+    }
+
+    .tipomobile{
+        display: flex;
+        margin-left: 108.5px;
+        font-size: 23px;
+    }
+    
+    .mobile_link1{
+        padding-right: 24px;
+        color: black;
+        text-decoration: none;
+    }
+
+    .mobile_link2{
+        color: black;
+        text-decoration: none;
     }
   
+    .key{
+        font-size: 16px;
+    }
+
+    .designer{
+        font-size: 23px;
+        font-family: "geometria-medium";
+        padding-bottom: 16px;
+    }
+
+    .see{
+        font-size: 16px;
+        color: black;
+    }
+    .cases{
+        margin: 14% 5% 5% 5%;
+        background-size: cover;
+        text-align: center;
+    }
+    .case1{
+        width: 100%;
+        height: 40vh;
+        padding-bottom: 64px;
+    }
+
+    .case1 a{
+        color: black;
+        margin-top: 10px;
+    }
+
+    .case1 img{
+        border-radius: 10px;
+    }
+    .pie{
+        padding-top: 4%;
+        padding-bottom: 50%;
+    }
+
+    .right{
+        text-align: center;
+        font-size: 14px;
+        padding-top: 3%;
+    }
+
+    .want{
+        font-size: 24px;
+        font-family: "geometria-medium";
+        padding-bottom: 3%;
+    }
+
+    .email{
+        font-size: 16px;
+        color: white;
+    }
+
+    .linkedin2{
+        font-size: 16px;
+        color: white;
+    }
+
+    .medium2{
+        font-size: 16px;
+        color: white;
+    }
+
+    .behance2{
+        font-size: 16px;
+        color: white;
+    }
+
     .desktop-screen {
       display: none;
     }
+}  
   
-  }  
