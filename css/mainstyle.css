@@ -18,7 +18,7 @@ main{
 .project2{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/Project2.jpg);
+    background-image: url(../images/project2.jpg);
     background-size: cover;
     margin-left: 1%;
     cursor: pointer;
@@ -27,7 +27,7 @@ main{
 .project3{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/Project3.jpg);
+    background-image: url(../images/project3.jpg);
     background-size: cover;
     margin-right: 1%;
     cursor: pointer;
@@ -36,7 +36,7 @@ main{
 .project4{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/Project4.jpg);
+    background-image: url(../images/project4.jpg);
     background-size: cover;
     margin-left: 1%;
     cursor: pointer;
