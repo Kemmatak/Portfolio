@@ -116,7 +116,7 @@ main{
     .case1{
         width: 100%;
         height: 40vh;
-        padding-bottom: 64px;
+        margin-bottom: 64px;
     }
 
     .case1 a{
