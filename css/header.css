@@ -1,0 +1,16 @@
+header{
+    margin: 1% 4% 10% 4%;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15%;
+}
+
+.apartados {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+

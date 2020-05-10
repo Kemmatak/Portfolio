@@ -1,0 +1,142 @@
+
+@font-face {
+    font-family: "geometria-thin";
+    src: url("../fonts/Geometria-Thin.ttf");
+}
+
+
+@font-face {
+    font-family: "geometria-extralight";
+    src: url("../fonts/Geometria-ExtraLight.ttf");
+}
+
+
+@font-face {
+    font-family: "geometria-light";
+    src: url("../fonts/Geometria-Light.ttf");
+}
+
+
+@font-face {
+    font-family: "geometria";
+    src: url("../fonts/Geometria.ttf");
+}
+
+@font-face {
+    font-family: "geometria-medium";
+    src: url("../fonts/Geometria-Medium.ttf");
+}
+body{
+    font-family: "geometria";
+}
+.inicial{
+    font-size: 7vh;
+    font-family: "geometria-medium";
+    margin-top: 0;
+    margin-bottom: 0;
+    color: black;
+    text-decoration: none;
+}
+p,
+a{
+    font-size: 2.5vh;
+    margin-bottom: 1vh;
+    margin-top: 10px;
+}
+
+
+.apartados a{
+    font-size: 2.5vh;
+    color: black;
+    text-decoration: none;
+
+}
+
+.linkwork{
+  padding-right:20%; 
+   
+
+}
+
+.titular{
+    font-size: 3.7vh;
+    -webkit-animation: tracking-in-expand 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+    animation: tracking-in-expand 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+
+}
+
+h1{
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.who{
+    margin-bottom: 4%;
+}
+
+.more{
+    text-decoration: none;
+    text-decoration: underline;
+    color: black;
+}
+
+.know{
+    font-family: "geometria-medium";
+    font-size: 6.7vh;
+}
+
+.final a{
+    font-family: "geometria-medium";
+    color: white;
+}
+
+.editor p{
+    font-size: 2vh;
+    margin-top: 3%;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 2%;
+    margin-top: 0;
+}
+
+.get{
+    margin-top: 2%;
+}
+
+.links{
+    margin-top: 2%;
+}
+
+.links a{
+    padding-right: 2%;
+}
+
+.also{
+    margin-top: 3%;
+}
+
+.morado{
+    font-size: 2.5em;
+    color: #6236FF;
+}
+
+.funcion{
+    font-size: 1.5em;
+    margin-bottom: 0;
+}
+
+.empresa{
+    font-size: 1.2em;
+    margin-bottom: 0;
+}
+
+.tiempo{
+    font-size: 0.9em;
+}
+
+.curriculum{
+    color: black;
+    padding-left: 7%;
+}

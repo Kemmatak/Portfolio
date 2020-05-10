@@ -1,0 +1,56 @@
+
+main{
+    
+    margin: 1% 5% 5% 5%;
+}
+
+
+
+.project1{
+    width: 70vh;
+    height: 70vh;
+    background-image: url(../images/Project1.jpg);
+    background-size: cover;
+   margin-right: 1%;
+   cursor: pointer;
+}
+
+.project2{
+    width: 70vh;
+    height: 70vh;
+    background-image: url(../images/Project2.jpg);
+    background-size: cover;
+    margin-left: 1%;
+    cursor: pointer;
+}
+
+.project3{
+    width: 70vh;
+    height: 70vh;
+    background-image: url(../images/Project3.jpg);
+    background-size: cover;
+    margin-right: 1%;
+    cursor: pointer;
+}
+
+.project4{
+    width: 70vh;
+    height: 70vh;
+    background-image: url(../images/Project4.jpg);
+    background-size: cover;
+    margin-left: 1%;
+    cursor: pointer;
+
+}
+
+.lineapro{
+    display: flex;
+    margin-bottom: 2%;
+    justify-content: center;
+}
+
+.lineapre{
+    display: flex;
+    justify-content: center;
+}
+
