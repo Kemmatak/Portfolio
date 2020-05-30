@@ -8,26 +8,25 @@ main{
 .project1{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/Project1.jpg);
+    background-image: url(../images/project4.jpg);
     background-size: cover;
    margin-right: 1%;
    cursor: pointer;
 }
 
-
 .project2{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/project2.jpg);
+    background-image: url(../images/Project1.jpg);
     background-size: cover;
-    margin-left: 1%;
+    margin-left: 4%;
     cursor: pointer;
 }
 
 .project3{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/project3.jpg);
+    background-image: url(../images/project2.jpg);
     background-size: cover;
     margin-right: 1%;
     cursor: pointer;
@@ -36,16 +35,15 @@ main{
 .project4{
     width: 70vh;
     height: 70vh;
-    background-image: url(../images/project4.jpg);
+    background-image: url(../images/project3.jpg);
     background-size: cover;
-    margin-left: 1%;
+    margin-left: 4%;
     cursor: pointer;
 
 }
 
 .lineapro{
     display: flex;
-    margin-bottom: 2%;
     justify-content: center;
 }
 
@@ -116,8 +114,8 @@ main{
     }
     .case1{
         width: 100%;
-        height: auto;
-        margin-bottom: 50px;
+        height: 40vh;
+        padding-bottom: 64px;
     }
 
     .case1 a{
@@ -130,6 +128,7 @@ main{
     }
     .pie{
         padding-top: 4%;
+        padding-bottom: 50%;
     }
 
     .right{
@@ -152,13 +151,11 @@ main{
     .linkedin2{
         font-size: 16px;
         color: white;
-        padding-right: 8px;
     }
 
     .medium2{
         font-size: 16px;
         color: white;
-        padding-right: 8px;
     }
 
     .behance2{

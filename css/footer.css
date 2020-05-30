@@ -6,3 +6,8 @@ footer{
 
 .editor{
 text-align: baseline;}
+
+.number{
+    display: flex;
+    padding-top: 1%;
+}
