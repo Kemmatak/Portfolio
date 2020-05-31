@@ -57,6 +57,15 @@
     margin: 1% 5% 3% 5%;
     display: flex;
 }
+
+.design{
+  margin: 1% 8% 5% 5%;
+}
+
+.toolkit{
+  width: 100%;
+}
+
 .mobile-screen {
     display: none;
   }
